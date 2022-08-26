@@ -7,6 +7,9 @@ int main()
 
     cin >> a >> b;
 
+
+    
+
     int count = 0;
     while(a <= b){
         count ++;
